@@ -26,7 +26,9 @@ namespace Core.DataAccess.EntityFramework
         {
             using (var context = new TContext())
             {
-                return filter == null ? context.Set<TEntity>().ToList() : context.Set<TEntity>().Where(filter).ToList();
+                return filter == null 
+                    ? context.Set<TEntity>().ToList() 
+                    : context.Set<TEntity>().Where(filter).ToList();
 
             }
         }

@@ -1,0 +1,15 @@
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\Entities\obj\Debug\net5.0\Entities.pdb

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wvcP9eRXpFqlGcUrP4jttG+e3jPUrt/qB2QTK6HInGneWrbwM0qP29cdABjC/v7y8Ed32JeNqw+G5SrjyyTjiw==",
+  "dgSpecHash": "MdwwlXNcM8K/XevSUQvbC4W5+JDAW8hPu0EgWxgk7FBbFphea0M45RnKzyJmwDx5UGSp40uVKYIG5Ilii+tubA==",
   "success": true,
   "projectFilePath": "C:\\Users\\yemre\\Desktop\\.NetCoreMimari\\NorthwindBackend\\Business\\Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\yemre\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\yemre\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\yemre\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\yemre\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
