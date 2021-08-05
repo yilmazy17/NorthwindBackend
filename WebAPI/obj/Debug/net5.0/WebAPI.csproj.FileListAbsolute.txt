@@ -8,7 +8,6 @@ C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\W
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\WebAPI.pdb
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Autofac.dll
-C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -22,7 +21,6 @@ C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\M
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -67,5 +65,5 @@ C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\obj\Debug\net5.0\W
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
-C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Humanizer.dll
-C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\yemre\Desktop\.NetCoreMimari\NorthwindBackend\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

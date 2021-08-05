@@ -46,9 +46,9 @@ namespace WebAPI.Controllers
             return BadRequest(result.Message);
         }
 
-        [HttpGet("getbyıd")]
+        [HttpGet("getbyid")]
 
-        public IActionResult Get(int productId)
+        public IActionResult GetList(int productId)
         {
             var result = _productService.GetById(productId);
             if (result.Success)
@@ -59,7 +59,6 @@ namespace WebAPI.Controllers
             return BadRequest(result.Message);
         }
 
-
         [HttpPost("add")]
 
         public IActionResult Add(Product product)
@@ -67,7 +66,6 @@ namespace WebAPI.Controllers
             var result = _productService.Add(product);
             if (result.Success)
             {
-
                 return Ok(result.Message);
             }
 
@@ -81,7 +79,6 @@ namespace WebAPI.Controllers
             var result = _productService.Update(product);
             if (result.Success)
             {
-
                 return Ok(result.Message);
             }
 
@@ -95,12 +92,12 @@ namespace WebAPI.Controllers
             var result = _productService.Delete(product);
             if (result.Success)
             {
-
                 return Ok(result.Message);
             }
 
             return BadRequest(result.Message);
-
         }
+
+
     }
 }
